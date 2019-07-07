@@ -1,0 +1,26 @@
+body, html {
+	margin: 0;
+}
+
+a {
+	transition: 0.5s;
+}
+
+a:hover {
+	color: white;
+}
+
+.seller {
+	float: right;
+}
+
+.btn {
+	background-color: #57bb50;
+	border: none;
+	transition: 0.5s;
+}
+
+.btn:hover {
+  	background-color: #3e8e41;
+  	color: white;
+}
